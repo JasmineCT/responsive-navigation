@@ -39,6 +39,10 @@ nav ul {
 }
 
 nav li {
+  text-align: left;
+}
+
+nav a {
   display: block;
   padding: .5rem .75rem;
   color: #333;
